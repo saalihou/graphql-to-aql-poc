@@ -1,0 +1,5 @@
+{"type":2300,"data":{"_id":"payments/p1","_key":"p1","_rev":"_VpWsaJ2---","amount":10}}
+{"type":2300,"data":{"_id":"payments/p2","_key":"p2","_rev":"_VpWstxK---","amount":20}}
+{"type":2300,"data":{"_id":"payments/p3","_key":"p3","_rev":"_VpWs4a6---","amount":30}}
+{"type":2300,"data":{"_id":"payments/p4","_key":"p4","_rev":"_VpWtR5O---","amount":40}}
+{"type":2300,"data":{"_id":"payments/p5","_key":"p5","_rev":"_VpWtcFW---","amount":50}}
