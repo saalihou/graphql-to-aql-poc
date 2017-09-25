@@ -10,8 +10,8 @@ const {
 } = require('lodash');
 
 const db = new Database({
-  url: 'http://root:openSesame@localhost:8529',
-  databaseName: '_system'
+  url: process.env.ARANGO_URL || 'http://root:openSesame@localhost:8529',
+  databaseName: process.env.ARANGO_DATABASE || '_system'
 });
 
 const now = Date.now();
