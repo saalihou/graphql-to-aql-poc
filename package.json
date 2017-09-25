@@ -1,0 +1,10 @@
+{
+  "name": "graphql-to-aql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "arangojs": "^5.7.0",
+    "lodash": "^4.17.4"
+  }
+}
